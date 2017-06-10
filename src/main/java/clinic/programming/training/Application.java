@@ -10,7 +10,7 @@ import org.apache.commons.lang3.StringUtils;
 public class Application {
 
     public Application() {
-        System.out.println("Inside application");
+        System.out.println("Inside application constructor");
     }
 
     public int countWords(String words) {

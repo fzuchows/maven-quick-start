@@ -1,2 +1,2 @@
 # maven-quick-start
-Maven Quick Start project
+Maven Quick Start project with JUnit
